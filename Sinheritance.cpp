@@ -42,3 +42,4 @@ class A
      c1.sum1();
      return 0;
    }
+//this check the status
